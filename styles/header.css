@@ -57,3 +57,8 @@
 .container__botao {
     display: none;
 }
+
+.estrelas {
+    display: flex;
+    margin-bottom:0.5em;
+}
